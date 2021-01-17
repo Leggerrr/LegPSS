@@ -9,12 +9,13 @@ pssbg2 {
   background: url("https://raw.githubusercontent.com/Leggerrr/LegPSS/main/images/background.png") no-repeat fixed center bottom;  
 }
 
-pssnamebar { 
-    height: 40px; 
-    position: fixed; 
-    bottom:0%;
-    width:100%; 
-    background-color: blue; 
-    opacity: 1;
+pssnamebar {
+  height: 40px; 
+  position: fixed; 
+  bottom: 0%;
+  width: 100%; 
+  background-color: #d70000;
+  border-top: 10px solid #fefefe;
+  opacity: 1;
 }
 
