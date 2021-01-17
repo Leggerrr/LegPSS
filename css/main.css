@@ -35,3 +35,9 @@ namebar {
  color:#fefefe;
 }
 
+.pcslot {
+height:70px;
+width: 70px;
+background: #000;
+border-radius: 5px;
+}
