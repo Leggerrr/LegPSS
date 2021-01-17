@@ -18,14 +18,17 @@ namebar {
   bottom: 0%;
   width: 100%; 
   background-image: linear-gradient(to right, #0059ab, #019fe9);
-  border-top: 10px solid #fefefe;
+  border-top: 5px solid #fefefe;
   opacity: 1;
   margin-left:-8px;
 }
 
 .name {
- font:;
- text-align:right;
- margin-right:20px;
+ line-height:150px;
+ font-size: 30px;
+ font-family: Montserrat;
+ text-transform: uppercase;
+ text-align: right;
+ margin-right: 20px;
 }
 
