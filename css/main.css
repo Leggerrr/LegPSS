@@ -25,12 +25,13 @@ namebar {
 
 .name {
  line-height:150px;
- font-size: 30px;
+ font-size: 50px;
  font-family: Montserrat;
  font-weight: 900;
  letter-spacing:2px;
  text-transform: uppercase;
  text-align: right;
  margin-right: 20px;
+ color:#fefefe;
 }
 
