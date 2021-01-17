@@ -4,6 +4,7 @@ body {
 
 background {
   position:absolute;
+  z-index:90;
   top:0px;
   bottom:0px;
   width:100%;
@@ -39,6 +40,8 @@ namebar {
 top:50px;
 margin: auto;
 width: 50%;
+position:relative;
+z-index:99;
 }
 
 .pcrow {
