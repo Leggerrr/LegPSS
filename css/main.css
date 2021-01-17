@@ -35,6 +35,17 @@ namebar {
  color:#fefefe;
 }
 
+.pc {
+top:50px;
+margin: auto;
+width: 50%;
+}
+
+.pcrow {
+padding:10px;
+padding-top:0px;
+}
+
 .pcslot {
 height:70px;
 width: 70px;
