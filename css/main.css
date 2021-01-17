@@ -26,7 +26,9 @@ namebar {
 .name {
  line-height:150px;
  font-size: 30px;
- font-family: Montserrat;
+ font-family: Barlow Condensed;
+ font-weight: black;
+ letter-spacing:2px;
  text-transform: uppercase;
  text-align: right;
  margin-right: 20px;
