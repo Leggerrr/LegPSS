@@ -1,8 +1,13 @@
 body {
   background-color:#fefefe;
+  padding:0px;
 }
 
 pssbg {
+  width:100%;
+  height:100;
+  top:0px;
+  left:0px;
   background: url("https://raw.githubusercontent.com/Leggerrr/LegPSS/main/images/background.png") no-repeat fixed center bottom;  
 }
 
