@@ -9,7 +9,7 @@ namebar {
   position: fixed; 
   bottom: 0%;
   width: 100%; 
-  background-color: #d70000;
+  background-image: linear-gradient(to right, #0059ab, #019fe9);
   border-top: 10px solid #fefefe;
   opacity: 1;
 }
