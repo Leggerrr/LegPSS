@@ -86,7 +86,7 @@ padding:20px;
 padding-bottom:10px;
 padding-right:10px;
 background:#fefefe;
-border-radius:10px;
+border-radius: 0px 0px 10px 10px;
 }
 
 .pcrow {
