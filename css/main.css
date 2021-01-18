@@ -22,7 +22,6 @@ namebar {
   border-top: 5px solid #fefefe;
   opacity: 0.95;
   margin-left:-8px;
-  position:relative;
   z-index:100;
 }
 
