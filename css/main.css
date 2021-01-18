@@ -79,6 +79,7 @@ margin-right:6px;
 
 .pokeslot {
 display: inline-block;
+vertical-align: middle;
 height:70px;
 width: 70px;
 line-height: 70px;
