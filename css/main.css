@@ -45,6 +45,15 @@ namebar {
  color:#fefefe;
 }
 
+.info {
+  margin-top:-150px;
+  font-size: 11px;
+  text-transform:uppercase;
+  font-family:Abel;
+  letter-spacing:1px;
+  color #f5f5f5;
+}
+
 .pc {
 top:50px;
 width:480px;
