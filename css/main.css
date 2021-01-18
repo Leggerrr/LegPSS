@@ -63,3 +63,28 @@ background: #000;
 border-radius: 5px;
 margin-right:6px;
 }
+
+.pokepc {
+top:50px;
+width:480px;
+margin: auto;
+position:relative;
+z-index:99;
+top:184px;
+padding:20px;
+padding-bottom:10px;
+padding-right:10px;
+border-radius:10px;
+}
+
+.pokerow {
+  margin-bottom:6px;
+}
+
+.pokeslot {
+display: inline-block;  
+height:70px;
+width: 70px;
+border:1px solid #d70000;
+margin-right:6px;
+}
