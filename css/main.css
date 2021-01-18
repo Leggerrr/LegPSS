@@ -84,15 +84,14 @@ line-height: 70px;
 margin-right:6px;
 text-align:center;
 padding:0px;
-background:#d70000;
 }
 
 .pokeslot img {
 height:56px;
 width:68px;
-border:1px solid;
-border-top:7px solid;
-border-bottom:7px solid;
+border:1px solid transparent;
+border-top:7px solid transparent;
+border-bottom:7px solid transparent;
 padding:0px;
 margin:0px;
 background:#cccccc;
