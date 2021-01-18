@@ -16,7 +16,8 @@ background {
   top:0px;
   bottom:0px;
   width:100%;
-  background: url("https://raw.githubusercontent.com/Leggerrr/LegPSS/main/images/background.png") no-repeat fixed center bottom;
+  background: url("https://raw.githubusercontent.com/Leggerrr/LegPSS/main/images/background.png") no-repeat fixed bottom;
+  background-size: auto;
   opacity:0.4;
   margin-left:-8px;
 }
