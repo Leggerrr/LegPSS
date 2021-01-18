@@ -76,12 +76,11 @@ namebar {
 }
 
 .pc {
-top:50px;
 width:480px;
 margin: auto;
 position:relative;
 z-index:99;
-top:184px;
+bottom:150px;
 padding:20px;
 padding-bottom:10px;
 padding-right:10px;
