@@ -80,6 +80,7 @@ margin-right:6px;
 display: inline-block;
 height:70px;
 width: 70px;
+line-height: 70px;
 margin-right:6px;
 text-align:center;
 padding:0px;
@@ -87,6 +88,11 @@ background:#d70000;
 }
 
 .pokeslot img {
+height:56px;
+width:68px;
+border:7px solid;
+border-top:1px solid;
+border-bottom:1px solid;
 padding:0px;
 margin:0px;
 background:#cccccc;
