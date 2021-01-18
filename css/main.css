@@ -85,7 +85,6 @@ margin-right:6px;
 text-align:center;
 padding:0px;
 pointer-events: none;
-background:#d70000;
 position:relative;
 z-index:120;
 }
@@ -98,7 +97,6 @@ border-top:7px solid transparent;
 border-bottom:7px solid transparent;
 padding:0px;
 margin:0px;
-background:#ccc;
 }
 
 /* Pulse */
