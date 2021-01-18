@@ -43,7 +43,8 @@ margin: auto;
 width: 50%;
 position:relative;
 z-index:99;
-padding:10px;
+padding:20px;
+padding-bottom:10px;
 background:#f5f5f5;
 border-radius:10px;
 }
