@@ -30,13 +30,13 @@ cornerinfo {
   text-transform:uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   letter-spacing:1.5px;
-  color:#111111;
+  color:#000;
   text-shadow:
   -1px -1px 0 #fefefe,  
    1px -1px 0 #fefefe,
   -1px 1px 0 #fefefe,
    1px 1px 0 #fefefe;
-  opacity:0.5;
+  opacity:0.4;
 }  
 
 namebar {
