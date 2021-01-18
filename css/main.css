@@ -64,7 +64,7 @@ display: inline-block;
 height:70px;
 width: 70px;
 background: #000;
-opacity:0.05;
+opacity:1;
 border-radius: 5px;
 margin-right:6px;
 }
