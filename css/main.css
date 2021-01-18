@@ -79,6 +79,7 @@ namebar {
 .pc {
 width:480px;
 margin: auto;
+margin-top:20px;
 position:relative;
 z-index:99;
 padding:20px;
