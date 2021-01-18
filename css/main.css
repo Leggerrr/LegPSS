@@ -46,14 +46,14 @@ namebar {
 }
 
 .trainerinfo {
-  margin-top:-40px;
+  margin-top:-50px;
   font-size: 11px;
   text-transform:uppercase;
   font-family: 'Abel', sans-serif;
   letter-spacing:1.5px;
   color:#fefefe;
   text-align:left;
-  margin-left:2px;
+  margin-left:10px;
 }
 
 .pc {
