@@ -51,7 +51,9 @@ namebar {
   text-transform:uppercase;
   font-family:Abel;
   letter-spacing:1px;
-  color #f5f5f5;
+  color #fefefe;
+  text-align:left;
+  margin-lefT:50px;
 }
 
 .pc {
@@ -64,7 +66,7 @@ top:184px;
 padding:20px;
 padding-bottom:10px;
 padding-right:10px;
-background:#f5f5f5;
+background:#fefefe;
 border-radius:10px;
 }
 
