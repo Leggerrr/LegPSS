@@ -70,7 +70,6 @@ margin-right:6px;
 
 .poke {
   margin-top:-400px;
-  margin-bottom:129px;
 }
 
 .pokerow {
@@ -85,7 +84,7 @@ width: 70px;
 margin-right:6px;
 text-align:center;
 padding:0px;
-margin-top:-31px;
+background:#d70000;
 }
 
 .pokeslot img {
