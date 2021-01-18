@@ -88,11 +88,9 @@ background:#d70000;
 }
 
 .pokeslot img {
-text-align:center;
 height:56px;
 width:68px;
 padding:0px;
 margin:0px;
-display: inline-block;
 background:#cccccc;
 }
